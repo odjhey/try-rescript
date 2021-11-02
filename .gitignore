@@ -4,3 +4,5 @@ lib
 src/*.bundle.js
 src/*.mjs
 .bsb.lock
+build
+yarn-error.log

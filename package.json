@@ -6,7 +6,8 @@
   "scripts": {
     "build": "rescript",
     "clean": "rescript clean -with-deps",
-    "start": "rescript build -w"
+    "start": "rescript build -w",
+    "dev": "snowpack dev"
   },
   "keywords": [],
   "author": "",
@@ -14,6 +15,11 @@
   "dependencies": {
     "@rescript/react": "^0.10.3",
     "esbuild": "^0.13.12",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "rescript": "^9.1.4"
+  },
+  "devDependencies": {
+    "snowpack": "^3.8.8"
   }
 }
