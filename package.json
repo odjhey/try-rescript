@@ -14,7 +14,6 @@
   "license": "ISC",
   "dependencies": {
     "@rescript/react": "^0.10.3",
-    "esbuild": "^0.13.12",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "rescript": "^9.1.4"
