@@ -1,3 +1,6 @@
 node_modules
 .merlin
 lib
+src/*.bundle.js
+src/*.mjs
+.bsb.lock
